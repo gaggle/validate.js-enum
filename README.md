@@ -1,6 +1,7 @@
 # validate.js-enum
 [![Build Status](https://travis-ci.org/gaggle/validate.js-enum.svg?branch=master)](https://travis-ci.org/gaggle/validate.js-enum)
 [![Coverage Status](https://coveralls.io/repos/github/gaggle/validate.js-enum/badge.svg?branch=master)](https://coveralls.io/github/gaggle/validate.js-enum?branch=master)
+[![Dependency Status](https://david-dm.org/gaggle/validate.js-enum.svg)](https://david-dm.org/gaggle/validate.js-enum)
 
 `enum` validation plugin for [validate.js](http://validatejs.org).
 
